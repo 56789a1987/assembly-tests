@@ -71,4 +71,4 @@ dw 0xAA55
 
 ; image data
 buffer:
-incbin 'image.bin'
+incbin 'utils/image.bin'
